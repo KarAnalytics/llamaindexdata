@@ -1,0 +1,108 @@
+ACME ANALYTICS INC. — COMPANY OVERVIEW
+
+Acme Analytics Inc. was founded in 2019 by Dr. Sarah Chen and Marcus Rivera
+in Lawrence, Kansas. The company specializes in AI-powered business intelligence
+tools for mid-market companies (100–5,000 employees).
+
+Headquarters: 1420 Jayhawk Boulevard, Lawrence, KS 66045
+Employees: 287 (as of January 2026)
+Annual Revenue (2025): $42.3 million
+Funding: Series B ($18M raised in March 2023 from Midwest Ventures)
+
+Mission: "To democratize data analytics so every business decision is informed
+by evidence, not intuition."
+
+The company operates three offices: Lawrence (HQ), Chicago (sales), and
+Austin (engineering). CEO: Dr. Sarah Chen. CTO: Marcus Rivera. CFO: Linda Park.
+
+---
+
+ACME ANALYTICS — PRODUCTS AND SERVICES
+
+1. InsightBoard Pro (Flagship Product)
+   - Real-time dashboard platform with natural language query interface
+   - Pricing: $49/user/month (Standard), $89/user/month (Enterprise)
+   - Supports PostgreSQL, MySQL, Snowflake, BigQuery, and Redshift
+   - 1,847 active enterprise customers as of Q4 2025
+
+2. DataPipe ETL
+   - Automated data pipeline builder with 200+ pre-built connectors
+   - Pricing: starts at $500/month for up to 10 million records/day
+   - Launched in September 2024
+
+3. PredictIQ
+   - ML-powered forecasting add-on for InsightBoard Pro
+   - Pricing: $29/user/month (requires InsightBoard Pro subscription)
+   - Uses proprietary time-series model trained on retail and logistics data
+   - Beta launched March 2025, GA release planned for June 2026
+
+All products include 24/7 email support. Enterprise plans include dedicated
+account manager and 99.9% SLA.
+
+---
+
+ACME ANALYTICS — Q4 2025 FINANCIAL RESULTS (CONFIDENTIAL)
+
+Period: October 1 – December 31, 2025
+
+Revenue:          $12.8 million (Q4) / $42.3 million (FY 2025)
+Gross Margin:     78.2%
+Operating Profit: $1.9 million (Q4) / $5.1 million (FY 2025)
+Net Income:       $1.4 million (Q4)
+Cash on Hand:     $14.7 million
+Burn Rate:        Company is cash-flow positive since Q2 2025
+
+Key Metrics:
+- ARR (Annual Recurring Revenue): $48.6 million (up 34% YoY)
+- Net Revenue Retention: 118%
+- Customer Acquisition Cost (CAC): $8,200
+- Customer Lifetime Value (LTV): $67,400
+- LTV/CAC Ratio: 8.2x
+
+Headcount grew from 241 to 287 employees during 2025.
+R&D spending: 31% of revenue. Sales & Marketing: 28% of revenue.
+
+---
+
+ACME ANALYTICS — EMPLOYEE HANDBOOK (EXCERPT)
+
+PAID TIME OFF (PTO):
+- All full-time employees receive 22 days of PTO per year (accrued monthly).
+- PTO increases to 27 days after 3 years of service.
+- Unused PTO can be carried over (max 5 days) or paid out at year-end.
+- Sick leave: 10 days per year (separate from PTO).
+
+REMOTE WORK POLICY:
+- Engineering and Data Science teams: fully remote eligible.
+- Sales and Customer Success: hybrid (minimum 2 days/week in office).
+- All employees may work remotely up to 4 weeks/year from any US location.
+- International remote work requires VP approval and tax review.
+
+PROFESSIONAL DEVELOPMENT:
+- Annual learning budget: $2,500 per employee.
+- Conference attendance: up to 2 conferences per year with manager approval.
+- Tuition reimbursement: up to $5,250/year for degree programs.
+
+---
+
+CUSTOMER CASE STUDY: BIGRETAIL CORP
+
+Company: BigRetail Corp (1,200 retail stores across 38 states)
+Challenge: Siloed data across POS, inventory, and CRM systems made it
+impossible for regional managers to get timely insights.
+
+Solution: Deployed InsightBoard Pro Enterprise + DataPipe ETL
+- Connected 14 data sources in 3 weeks using DataPipe
+- 340 regional managers now use InsightBoard daily
+- Natural language queries replaced manual SQL report requests
+
+Results (after 6 months):
+- 62% reduction in time-to-insight (from 4 days to 1.5 days average)
+- $3.2 million saved in inventory carrying costs
+- 23% increase in regional manager satisfaction scores
+- SQL report request backlog eliminated entirely
+
+Quote from BigRetail CIO Janet Torres:
+"InsightBoard Pro transformed how our managers interact with data.
+They went from waiting days for a report to asking questions in plain
+English and getting answers in seconds."
