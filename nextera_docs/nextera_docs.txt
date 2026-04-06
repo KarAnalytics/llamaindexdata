@@ -1,0 +1,87 @@
+NEXTERA GREEN SOLUTIONS — COMPANY OVERVIEW
+
+Nextera Green Solutions was founded in 2020 by climate scientist Dr. Elena
+Vasquez and former McKinsey partner David Okafor in Denver, Colorado.
+The company provides sustainability consulting and carbon accounting software
+to help companies meet ESG (Environmental, Social, Governance) targets.
+
+Headquarters: 1700 Lincoln Street, Suite 3400, Denver, CO 80203
+Employees: 156 (as of January 2026)
+Annual Revenue (2025): $23.8 million
+Funding: Series A ($12M raised in November 2023 from Climate Capital Partners
+and Patagonia Ventures)
+
+Mission: "To give every company a clear, data-driven path to net zero —
+turning climate commitments into measurable action."
+
+The company operates two offices: Denver (HQ) and London (European operations).
+CEO: Dr. Elena Vasquez. COO: David Okafor. VP Engineering: Kenji Tanaka.
+Nextera is a certified B Corporation and a member of the UN Global Compact.
+
+---
+
+NEXTERA GREEN SOLUTIONS — SERVICES AND PLATFORM
+
+1. CarbonLens Platform (Flagship Product)
+   - Automated Scope 1, 2, and 3 carbon emissions tracking
+   - Integrates with ERP systems (SAP, Oracle, NetSuite) to pull real data
+   - AI-powered recommendations for emission reduction strategies
+   - Pricing: $2,500/month (Standard, up to $500M revenue companies)
+              $6,500/month (Enterprise, unlimited + custom reporting)
+   - 312 active customers as of Q4 2025
+
+2. ESG Reporting Suite
+   - Automated generation of sustainability reports (GRI, SASB, TCFD, CDP)
+   - Audit-ready documentation with full data lineage
+   - Pricing: $18,000/year (bundled with CarbonLens Enterprise)
+   - Standalone: $24,000/year
+   - Launched April 2024
+
+3. Sustainability Strategy Consulting
+   - Science-Based Targets initiative (SBTi) alignment services
+   - Supply chain decarbonization roadmaps
+   - Pricing: Project-based ($75,000 – $250,000 per engagement)
+   - Team of 28 consultants with backgrounds in climate science and industry
+
+4. Carbon Offset Marketplace
+   - Verified carbon credits from 45 projects across 12 countries
+   - Blockchain-verified chain of custody for each credit
+   - Transaction fee: 4.5% per credit purchase
+   - Beta launched August 2025
+
+All platform customers receive quarterly sustainability benchmarking reports
+comparing their performance against industry peers.
+
+---
+
+NEXTERA GREEN SOLUTIONS — 2025 IMPACT REPORT
+
+Published: January 2026
+
+COMPANY IMPACT METRICS:
+- Total customer carbon emissions tracked: 47.3 million metric tons CO2e
+- Verified emission reductions enabled: 6.8 million metric tons CO2e (14.4%)
+- Customers who improved their CDP score after using Nextera: 89%
+- Average time to produce ESG report reduced from 14 weeks to 3.5 weeks
+
+NOTABLE CLIENT RESULTS:
+
+1. SummitBrew Coffee (specialty coffee chain, 380 locations)
+   - Reduced Scope 3 supply chain emissions by 31% in 18 months
+   - Switched 62% of logistics to electric vehicles using Nextera roadmap
+   - First coffee chain to achieve SBTi-validated near-term target
+
+2. Pacific Northwest Lumber Co. (timber and building materials)
+   - Used CarbonLens to discover 40% of emissions came from transportation
+   - Optimized shipping routes: saved 8,200 metric tons CO2e and $1.4M/year
+   - Achieved carbon-neutral certification for 2025 operations
+
+3. Meridian Financial Group (regional bank, $8B assets)
+   - Implemented financed emissions tracking (PCAF methodology)
+   - Identified $2.1B in loan portfolio exposed to high transition risk
+   - Developed green lending program: $340M in sustainability-linked loans
+
+AWARDS AND RECOGNITION (2025):
+- Fast Company "Most Innovative Companies" — Energy category (#7)
+- B Corp "Best for the World" — Environment category
+- Colorado Governor's Award for Clean Energy Innovation
