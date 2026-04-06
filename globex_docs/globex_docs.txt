@@ -1,0 +1,77 @@
+GLOBEX CYBERSECURITY CORP. — COMPANY OVERVIEW
+
+Globex Cybersecurity Corp. was founded in 2017 by former NSA analyst
+James Whitfield and AI researcher Dr. Priya Narayanan in Boston, Massachusetts.
+The company provides AI-driven cybersecurity solutions for financial services
+and healthcare organizations.
+
+Headquarters: 88 Federal Street, Suite 1200, Boston, MA 02110
+Employees: 412 (as of January 2026)
+Annual Revenue (2025): $78.5 million
+Funding: Series C ($45M raised in June 2024 from CyberVentures Capital
+and Goldman Sachs Growth Equity)
+
+Mission: "To make enterprise-grade cybersecurity autonomous, adaptive,
+and accessible to every regulated industry."
+
+The company operates four offices: Boston (HQ), Washington D.C. (government
+relations), Tel Aviv (R&D), and Singapore (APAC sales).
+CEO: James Whitfield. CTO: Dr. Priya Narayanan. CISO: Robert Tanaka.
+
+---
+
+GLOBEX CYBERSECURITY — PRODUCTS AND SERVICES
+
+1. ShieldAI Platform (Flagship Product)
+   - AI-powered threat detection and automated incident response
+   - Uses behavioral analysis to detect zero-day attacks in real time
+   - Pricing: $120/endpoint/year (Standard), $195/endpoint/year (Premium)
+   - 623 enterprise customers across 18 countries as of Q4 2025
+   - Average detection time: 2.3 minutes (industry average: 197 days)
+
+2. VaultGuard
+   - Data encryption and access management platform for regulated industries
+   - HIPAA, SOX, and PCI-DSS compliant out of the box
+   - Pricing: $35,000/year (up to 500 users), $60,000/year (unlimited users)
+   - Launched January 2023
+
+3. ThreatIntel Live
+   - Real-time threat intelligence feed with dark web monitoring
+   - Pricing: $8,500/month (includes API access and analyst dashboard)
+   - Aggregates data from 2,400+ sources updated every 15 minutes
+   - Integrates with Splunk, CrowdStrike, Palo Alto, and Microsoft Sentinel
+
+All products include a dedicated Security Operations Center (SOC) team for
+Premium customers. Globex holds ISO 27001 and SOC 2 Type II certifications.
+
+---
+
+GLOBEX CYBERSECURITY — 2025 THREAT LANDSCAPE REPORT (PUBLIC)
+
+Published: February 2026
+
+KEY FINDINGS FROM GLOBEX'S CUSTOMER BASE (2025):
+
+Total incidents analyzed: 14,237 across 623 customers
+- Ransomware attacks: up 42% YoY (3,891 incidents)
+- Phishing campaigns: up 28% YoY (5,102 incidents)
+- Supply chain attacks: up 67% YoY (1,245 incidents — fastest-growing category)
+- Insider threats: relatively stable at 1,834 incidents
+
+ShieldAI Platform Performance:
+- Blocked 97.3% of attacks before any data exfiltration
+- Mean time to detect (MTTD): 2.3 minutes
+- Mean time to respond (MTTR): 8.7 minutes (automated response)
+- False positive rate: 0.4% (down from 1.2% in 2024)
+
+NOTABLE CASE: MERIDIAN HEALTH SYSTEM
+- 340-bed hospital network targeted by Medusa ransomware variant
+- ShieldAI detected anomalous lateral movement within 47 seconds
+- Automated containment isolated 3 affected servers in under 2 minutes
+- Zero patient data exfiltrated; zero downtime for clinical systems
+- Estimated savings: $12M+ (average healthcare ransomware cost per Ponemon)
+
+INDUSTRY PREDICTIONS FOR 2026:
+- AI-generated phishing emails will become indistinguishable from human-written
+- Quantum-resistant encryption adoption will begin in financial services
+- Average cost of a data breach expected to exceed $5.2 million globally
